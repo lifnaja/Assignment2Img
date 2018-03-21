@@ -1,0 +1,9 @@
+D:\source\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+D:\source\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+D:\source\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+D:\source\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+D:\source\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\source\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\source\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\source\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\source\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
